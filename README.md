@@ -48,7 +48,7 @@ Les problèmes de propriétés héritées qu'on oublie.
 
 ### Useful resources
 
-- [Tutoriel d'Aurélien Gérits](https://codepen.io/aurelien-gerits/pen/jENBNKV) - This helped me for to create the hover effect (underlining effect)
+- [Tutoriel d'Aurélien Gérits](https://codepen.io/aurelien-gerits/pen/jENBNKV) - This helped me to create the hover effect (underlining effect)
 
 ## Author
 
